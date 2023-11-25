@@ -71,6 +71,6 @@ def download_non_error_image(csv_file_path, output_folder, num_images_without_er
 
     print(f"Hoàn thành quá trình tải ảnh mà không có lỗi.")
 
-download_non_error_image('pizzacam\pizza_error_list_with_label.csv', 'image_input')
-download_error_image('pizzacam\pizza_error_list_with_label.csv', 'image_input')
+download_non_error_image('data\pizza_error_list_with_label.csv', 'image_input')
+download_error_image('data\pizza_error_list_with_label.csv', 'image_input')
 

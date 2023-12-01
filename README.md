@@ -8,3 +8,5 @@ Mô tả đề tài: Đề tài này được tôi thực hiện tại trong qu�
 - Tôi đã huấn luyện mô hình trên kaggle bởi kaggle cung cấp GPU khá khỏe, thuận tiện cho việc học từ tập ảnh. Cách tôi huấn luyện mô hình có trong file model-train.ipynb. Tôi sử dụng kiến trúc mạng InceptionV3 để học, bởi bài toán cũng có giới hạn về kích thước của mô hình
 - Tôi có xây dựng 1 web đơn giản để demo cho mô hình, dưới đây là ảnh minh họa
   ![image](https://github.com/VHN1305/TestInFacenet/assets/86543998/d91557d4-1f26-4fce-925c-d8e9d5a19b2c)
+
+- Xem cách huấn luyện mô hình trong phần notebooks. Vì model được train trên kaggle, nên có 1 số đường dẫn vẫn là đường dẫn trên kaggle.
